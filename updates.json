@@ -1,1 +1,48 @@
-[]
+[
+ {
+  "datetime": 1794657414,
+  "type": "UNOFFICIAL",
+  "version": "24.0",
+  "files": [
+   {
+    "filename": "LineageOS-24-NX789J-V0.7-update-from-V0.6.zip",
+    "sha256": "e7d715364d96044676d4597fa3d0f6fe3f5fef58941a36e9ad74080c7413d090",
+    "size": 335741905,
+    "url": "https://github.com/JueN-Sar/updates/releases/download/V0.7/LineageOS-24-NX789J-V0.7-update-from-V0.6.zip",
+    "os_patch_level": "2026-10-01",
+    "os_sdk_level": 37,
+    "ota_property_files": "payload_metadata.bin:3107:4068296,payload.bin:3107:335735843,payload_properties.txt:335739008:172,metadata:69:722,metadata.pb:859:2201"
+   }
+  ],
+  "mira": {
+   "name": "V0.7 · Antares",
+   "codename": "Antares",
+   "from_version": "V0.6",
+   "whats_new": [
+    "Apps that ask the phone for its ZTE feature values get the answer from the system, like stock.",
+    "The model chosen in Device profiles now reaches the apps.",
+    "Apps see the chip and CPU details of the chosen model family.",
+    "Every app sees the chosen GPU name, also in games.",
+    "CPU speed control and touch boost from Cube work like stock.",
+    "The SIM without mobile data has no empty space for arrows; the gap between the two SIMs is smaller.",
+    "About phone shows the build number as \"V0.7 · Antares\".",
+    "Every setting appears in one place only.",
+    "The Settings main page looks like the agreed preview.",
+    "Charging looks like stock: the RedMagic animation, the stock charging line on the lock screen, and the stock screen when charging with the phone off."
+   ],
+   "all_changes": [
+    "Apps that ask the phone for its ZTE feature values get the answer from the system, like stock.",
+    "The model chosen in Device profiles now reaches the apps.",
+    "Apps see the chip and CPU details of the chosen model family.",
+    "Every app sees the chosen GPU name, also in games.",
+    "CPU speed control and touch boost from Cube work like stock.",
+    "The SIM without mobile data has no empty space for arrows; the gap between the two SIMs is smaller.",
+    "About phone shows the build number as \"V0.7 · Antares\".",
+    "Every setting appears in one place only.",
+    "The Settings main page looks like the agreed preview.",
+    "Charging looks like stock: the RedMagic animation, the stock charging line on the lock screen, and the stock screen when charging with the phone off."
+   ],
+   "known_issues": []
+  }
+ }
+]
